@@ -20,3 +20,5 @@
     - alu, register, control unit
 - system bus = 컴퓨터의 네 가지 핵심 부품을 연결
     - 주소, 데이터, 제어 버스로 구성됨
+
+## 2-1 0과 1로 숫자를 표현하는 방법
